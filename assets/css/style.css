@@ -1,0 +1,49 @@
+.sign_in_button{
+    color: white;
+
+}
+.bg-light{
+    background-color: #FFF !important;
+}
+.tagar_01{
+    font-size: 3em;
+}
+.tagar_02{
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.tagar{
+    background-color: #f2f2f2;
+    border-radius: 30px;
+    padding: 10px;
+    margin-right: 5px;
+}
+.tagar_icon{
+    background-color: #000;
+    color: #fff;
+    border-radius: 50%;
+    height: 25px;
+    width: 25px;
+    display: inline-block;
+}
+.novel_list_title{
+    font-size: 1.5em;
+    font-weight: bold;
+}
+.novel_list{
+    margin-bottom: 30px;
+    margin-left: 5px;
+}
+.tagar_blok{
+    margin-bottom: 40px;
+}
+.navbar-brand{
+    font-size: 1.5em;
+    font-weight: bold;
+}
+.greeting{
+    border-left: 1px solid #888;
+    font-size: 0.7em;
+    padding-left: 10px;
+    margin-left: 10px;
+}
